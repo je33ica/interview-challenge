@@ -1,0 +1,14 @@
+.filters {
+    background:  #F8F8F8;;
+    padding: 20px;
+    list-style: none;
+    margin: 0;
+  }
+  
+  .filters .form-control {
+    border: 1px solid #ffffff;
+    padding: 8px;
+    width: 100%;
+    display: inline;
+    box-sizing: border-box;
+} 

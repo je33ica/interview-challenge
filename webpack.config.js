@@ -31,6 +31,7 @@ module.exports = {
   resolve: {
     extensions: ['*', '.js', '.jsx']
   },
+ 
   devServer: {
     port: 3000,
     open: true,
@@ -46,4 +47,5 @@ module.exports = {
       favicon: './public/favicon.ico'
     })
   ]
+  
 };
