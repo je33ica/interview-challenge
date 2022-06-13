@@ -21,3 +21,17 @@ yarn dev (or npm run dev)
 
 ## Run tests
 yarn test (or npm run test)
+
+### Further Developments
+
+Implement filter - is filtering correctly in the console but needs to be refactored into code
+
+Dietary display - not completed 
+
+refactor code to useContext instead of prop drilling ( I have never used it before but I know its a cleaner solution )
+
+Tooltip for dietary requirements - easy to know what the abbreviations mean 
+
+Calorie display- can be toggled, always off so not impact any mental health 
+
+separate items into areas - savoury/ sweet?  / colour code / easy to distinguish- increase basket spend, add on eg a chocolate bar don't get lost in list
